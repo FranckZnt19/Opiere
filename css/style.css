@@ -7,20 +7,20 @@ body{
     background-image: url("../img/bg-1.jpg");
 }
 .text-ab{
-    color: #DF3F1D !important;
+    color: #299328 !important;
 }
 .bg-ab{
     background-color: #000;
     color: #fff;
 }
 .hr-ab{
-    border-color:#DF3F1D;
+    border-color:#299328;
 }
 .circulo-ab {
 	width: 13rem;
 	height: 13rem;
 	border-radius: 50%;
-	background: #DF3F1D;
+	background:#299328;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -28,8 +28,8 @@ body{
   margin:0px auto;
   padding:3%
 }
-.hero a, .portfolio a, .events a, .footer a{
-    color: #DF3F1D !important;
+.hero a, .portfolio a, .products a, .footer a{
+    color:#299328 !important;
 }
 .footer{
     background-color: #222222;
